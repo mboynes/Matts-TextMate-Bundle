@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[@ start ${1:blockname}${2: if ${3:condition} } @]
+	$4
+${5:[@ else @]
+	$6
+}[@ end ${1} @]
+$0</string>
+	<key>name</key>
+	<string>Tierra</string>
+	<key>tabTrigger</key>
+	<string>tblock</string>
+	<key>uuid</key>
+	<string>503386E3-03CA-4171-A94F-95F47A0F8A4B</string>
+</dict>
+</plist>

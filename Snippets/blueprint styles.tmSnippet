@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;link rel="stylesheet" href="/css/bp/screen.css" type="text/css" media="screen, projection" /&gt;
+&lt;link rel="stylesheet" href="/css/bp/print.css" type="text/css" media="print" /&gt;
+&lt;!--[if lt IE 8]&gt;
+  &lt;link rel="stylesheet" href="/css/bp/ie.css" type="text/css" media="screen, projection" /&gt;
+&lt;![endif]--&gt;
+$0</string>
+	<key>name</key>
+	<string>blueprint styles</string>
+	<key>tabTrigger</key>
+	<string>bps</string>
+	<key>uuid</key>
+	<string>562517E2-5CF7-440D-AF33-87B6DDB68AAD</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script type="text/javascript"&gt;
+\$(document).ready(function(){
+	${1:// code away}
+});
+&lt;/script&gt;$0</string>
+	<key>name</key>
+	<string>jquery: document.ready (html)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>562FB4FC-B9AB-4889-B297-FF8C36CE0CF9</string>
+</dict>
+</plist>

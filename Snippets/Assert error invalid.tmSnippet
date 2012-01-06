@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>assert ${1:object}.errors.invalid?(:${2:attribute})$0</string>
+	<key>name</key>
+	<string>Assert error invalid</string>
+	<key>tabTrigger</key>
+	<string>asei</string>
+	<key>uuid</key>
+	<string>49B9747F-8649-44FA-886F-86B4816107D8</string>
+</dict>
+</plist>
